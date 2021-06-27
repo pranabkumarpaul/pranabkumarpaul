@@ -1,6 +1,6 @@
 ![I am GitHub Readme Generator's creator](https://github.com/pranabkumarpaul/pranabkumarpaul/blob/main/Banner.png?raw=true)
 ### Hi there 👋, my name is Pranab Paul
-#### Data Analyst and Machine Learning enthusiast from India. Currently working in TCS. I love take up new challenges and learn new skills.
+#### Data Analyst and Machine Learning enthusiast from India. Currently working in TCS. I love to take up new challenges and learn new skills.
 
 I created the projects on my own.
 
